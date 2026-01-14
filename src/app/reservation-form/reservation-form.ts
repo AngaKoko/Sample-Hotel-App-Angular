@@ -1,12 +1,11 @@
 import { Component } from '@angular/core';
-import { ReservationModule } from '../reservation/reservation-module';
 
 @Component({
   selector: 'app-reservation-form',
-  imports: [ReservationModule],
+  imports: [],
   templateUrl: './reservation-form.html',
   styleUrl: './reservation-form.css',
 })
-export class ReservationForm {
+export class ReservationFormCompoment {
 
 }

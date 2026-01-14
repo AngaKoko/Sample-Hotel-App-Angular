@@ -7,6 +7,6 @@ import { ReservationModule } from '../reservation/reservation-module';
   templateUrl: './reservation-list.html',
   styleUrl: './reservation-list.css',
 })
-export class ReservationList {
+export class ReservationListComponent {
 
 }

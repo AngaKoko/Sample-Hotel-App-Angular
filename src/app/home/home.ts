@@ -7,6 +7,6 @@ import { HomeModule } from './home-module';
   templateUrl: './home.html',
   styleUrl: './home.css',
 })
-export class Home {
+export class HomeCompoent {
 
 }
